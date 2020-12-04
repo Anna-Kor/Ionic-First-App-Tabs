@@ -1,0 +1,7 @@
+{
+  "name": "PrzegladKsiazek",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
